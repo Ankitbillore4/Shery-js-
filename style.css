@@ -2,7 +2,7 @@
   margin:0%;
   padding:0%;
   box-sizing: border-box;
-  color: #FFF;
+ 
   font-family: gilroy;
 }
 
@@ -15,7 +15,7 @@ width:100%;
 .main{
     height: 100%;
     width: 100%;
-    background-color: black;
+    /* background-color: rgb(228, 197, 197); */
     
 }
 
@@ -24,7 +24,7 @@ width:100%;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    border-bottom: 0.1px solid white;
+    border-bottom: 0.1px solid rgb(3, 3, 3);
 }
 
 
