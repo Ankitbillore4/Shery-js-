@@ -21,7 +21,6 @@ width:100%;
 
 .nav{
     height: 15%;
-  
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -33,3 +32,43 @@ width:100%;
     display: flex;
     gap: 20px;
 }
+
+.hero{
+    height: calc(100% - 15%);
+    background-color: gray;
+   
+}
+
+.images{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.image1{
+ height: 70%;
+ width: 20%;
+ background-color: #fff;
+ border-radius: 15px;
+}
+.image2{
+    height: 70%;
+    width: 20%;
+    background-color: #fff;
+    border-radius: 15px;
+   }
+   .image3{
+    height: 70%;
+    width: 20%;
+    background-color: #fff;
+    border-radius: 15px;
+   }
+   .image4{
+    height: 70%;
+    width: 20%;
+    background-color: #fff;
+    border-radius: 15px;
+   }
