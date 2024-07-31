@@ -1,0 +1,35 @@
+*{
+  margin:0%;
+  padding:0%;
+  box-sizing: border-box;
+  color: #FFF;
+}
+
+html,body{
+height:100%;
+width:100%;
+}
+
+
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    
+}
+
+
+#photo{
+    height: 60%;
+    width: 20%;
+    background-color: rgb(0, 64, 255);
+}
+
+
+#photo img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+
