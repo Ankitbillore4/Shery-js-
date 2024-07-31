@@ -30,6 +30,13 @@ Shery.imageEffect(".image1, .image2 ,.image3 , .image4", {
 
 });
 
+
+
+
+
+
+
+
 //   Shery.imageEffect(".", {
 //     style: 2, //Select Style
 //     debug: true, // Debug Panel

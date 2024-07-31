@@ -95,7 +95,7 @@ body{
    .Images{
     height: 100vh;
     width: 100%;
-    background-color: #d62222;
+   
    }
 
    .Image1{
@@ -104,4 +104,8 @@ body{
    object-fit: contain;
    }
 
-   
+   .hero3{
+    height: 100vh;
+    width: 100%;
+    background-color: red;
+   }
