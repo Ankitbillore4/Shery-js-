@@ -88,3 +88,10 @@ width:100%;
     border-radius: 15px;
     overflow: hidden;
    }
+
+
+   .Images{
+    height: 90vh;
+    width: 100%;
+    background-color: #d62222;
+   }
