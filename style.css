@@ -37,6 +37,12 @@ body{
     cursor: pointer;
 }
 
+.navpart1 {
+    font-size: 3vw; 
+    overflow: hidden;
+    font-weight: 600;
+}
+
 .hero{
     height: calc(100% - 15%);
    
