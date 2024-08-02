@@ -29,7 +29,14 @@ Shery.imageEffect(".image1, .image2 ,.image3 , .image4", {
 });
 
 
-
+Shery.imageEffect(".Images", {
+    style: 3,
+   
+    scrollSnapping: true,
+    scrollSpeed: 6,
+    touchSpeed: 6,
+    damping: 7,
+  });
 
 
 
