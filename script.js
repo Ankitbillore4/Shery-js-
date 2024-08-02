@@ -31,7 +31,7 @@ Shery.imageEffect(".image1, .image2 ,.image3 , .image4", {
 
 Shery.imageEffect(".Images", {
     style: 2,
-    debug: true,
+    
   gooey: true,
     scrollSnapping: true,
     scrollSpeed: 6,
