@@ -98,17 +98,7 @@ body{
    }
 
 
-   .Images{
-    height: 100vh;
-    width: 100%;
-   
-   }
-
-   .Image1{
-    height: 100%;
-    width: 100%;
-   object-fit: contain;
-   }
+  
 
    .hero3{
     height: 100vh;
